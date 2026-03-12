@@ -42,7 +42,7 @@
 
 | 銷售總覽 | 客戶分析 | 產品排行 |
 | :---: | :---: | :---: |
-| ![預覽圖1](https://via.placeholder.com/200x120?text=Sales+Overview) | ![預覽圖2](https://via.placeholder.com/200x120?text=Customer+Insight) | ![預覽圖3](https://via.placeholder.com/200x120?text=Product+Ranking) |
+| ![預覽圖1](https://github.com/mymis168/powerbi_demo/img/dashboard1.svg) | ![預覽圖2](https://github.com/mymis168/powerbi_demo/img/dashboard2.png) | ![預覽圖3](https://github.com/mymis168/powerbi_demo/img/dashboard2.png) |
 
 ---
 
